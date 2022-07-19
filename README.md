@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sudhirv1
+- 👋 Hi, I’m Sudhir Venkat
 - 👀 I’m interested in becoming a full stack developer
 - 🌱 I’m currently learning c++, python, and java
 - 💞️ I’m looking to collaborate on web apps or any other interesting and challenging projects
