@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Sudhir Venkat
-- 🧑‍💻 I'm a Senior Student at Umich looking for New Grad opportunities. If you have anything that may fit me feel free to reach out!
-- 💞️ I’m looking to collaborate on NLP or any other interesting and challenging projects
-- 📫 Email me at sudhirv@umich.edu
+- 📫 Email me at sudhirvenkat0@gmail.com
 - 🌐 My Website: [https://sudhir-venkat.netlify.app/](https://sudhir-venkat.netlify.app/)
 
 <!---
